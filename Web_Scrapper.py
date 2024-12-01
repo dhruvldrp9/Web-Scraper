@@ -381,7 +381,7 @@ class WebScraper:
 
         try:
             # Extract plain text
-            text = soup.get_text(separator=' ', strip=True)
+            text = soup.get_text(separator='\n', strip=True)
             
             # Optional: Clean text using spaCy
             doc = self.nlp(text)
