@@ -63,7 +63,7 @@ def main():
     with col3:
         extract_documents = st.checkbox("Extract Documents", value=True)
     with col4:
-        extract_images = st.checkbox("Extract Images", value=True)
+        extract_images = st.checkbox("Download Images", value=True)
     
     # Scrape button
     if st.button("Scrape Website"):
