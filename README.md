@@ -1,8 +1,8 @@
-# 🕸️ Selective Web Scraper
+# 🕸️ Web Scraper
 
 ## Overview
 
-The Selective Web Scraper is a powerful, flexible Python-based web scraping tool that allows users to extract various types of content from websites with granular control. Built using Streamlit, this application provides an intuitive web interface for web scraping tasks.
+The Web Scraper is a powerful, flexible Python-based web scraping tool that allows users to extract various types of content from websites with granular control. Built using Streamlit, this application provides an intuitive web interface for web scraping tasks.
 
 ## Features
 
@@ -34,7 +34,7 @@ The Selective Web Scraper is a powerful, flexible Python-based web scraping tool
 ### Dependencies
 Install required libraries using:
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 
 ## Installation
@@ -78,19 +78,6 @@ streamlit run app.py
 3. Click "Scrape Website"
 4. Download the scraped data as a ZIP file
 
-## Configuration
-
-The `WebScraper` class allows detailed configuration:
-```python
-scraper = WebScraper(
-    url,
-    extract_text=True,
-    extract_links=True,
-    extract_documents=True,
-    extract_images=True
-)
-```
-
 ## Logging
 
 The application provides detailed logging to track scraping activities. Logs include:
@@ -122,13 +109,9 @@ Contributions are welcome! Please:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-[Specify your license, e.g., MIT License]
-
 ## Contact
 
-Dhruvkumar - [Your Contact Information]
+Dhruvkumar - [[Your Contact Information]](https://www.linkedin.com/in/dhruvp9/)
 
 ---
 
