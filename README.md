@@ -41,8 +41,8 @@ pip install -r Requirements.txt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/selective-web-scraper.git
-cd selective-web-scraper
+git clone https://github.com/dhruvldrp9/Web-Scraper.git
+cd Web-Scraper
 ```
 
 2. Create a virtual environment (recommended):
