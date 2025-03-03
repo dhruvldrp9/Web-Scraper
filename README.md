@@ -1,4 +1,5 @@
 # 🕸️ Web Scraper
+![WebScraper](https://github.com/user-attachments/assets/8da3a2d5-1c8e-4092-9aa4-911d95fa6a93)
 
 ## Overview
 
